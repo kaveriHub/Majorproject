@@ -110,3 +110,10 @@ background-color:white;
     background-color:#fe424d !important; 
    border:none !important;
 }
+
+/* show page */
+.show-img{
+    height:30vh;
+    display:flex;
+    flex-direction:column;
+}
