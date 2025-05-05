@@ -117,3 +117,11 @@ background-color:white;
     display:flex;
     flex-direction:column;
 }
+.btns{
+    display:flex;
+}
+
+.style-card{
+    padding-left:0;
+    padding-right:0;
+}
